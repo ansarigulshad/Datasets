@@ -1,17 +1,19 @@
 
 ## DATA.GOV
-#### https://catalog.data.gov/dataset
+##### https://catalog.data.gov/dataset
 
 ## Kaggle
-#### https://www.kaggle.com/datasets
+##### https://www.kaggle.com/datasets
 
 ## FiveThirtyEight
-#### https://data.fivethirtyeight.com/
-#### https://github.com/fivethirtyeight/data
+##### https://data.fivethirtyeight.com/
+##### https://github.com/fivethirtyeight/data
 
 ## BuzzFeed
-#### https://github.com/BuzzFeedNews/everything
+##### https://github.com/BuzzFeedNews/everything
 
+Ref:
+https://www.dataquest.io/blog/free-datasets-for-projects/
 ____________________________________________________________________________________________________________
 ### Information on accidents from each airline
 #### https://raw.githubusercontent.com/fivethirtyeight/data/master/airline-safety/airline-safety.csv
