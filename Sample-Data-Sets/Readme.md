@@ -1,25 +1,27 @@
+Ref:
+https://www.dataquest.io/blog/free-datasets-for-projects/
 
-## DATA.GOV
+
+### DATA.GOV
 ##### https://catalog.data.gov/dataset
 
-## Kaggle
+### Kaggle
 ##### https://www.kaggle.com/datasets
 
-## FiveThirtyEight
+### FiveThirtyEight
 ##### https://data.fivethirtyeight.com/
 ##### https://github.com/fivethirtyeight/data
 
-## BuzzFeed
+### BuzzFeed
 ##### https://github.com/BuzzFeedNews/everything
 
-Ref:
-https://www.dataquest.io/blog/free-datasets-for-projects/
+
 ____________________________________________________________________________________________________________
 ### Information on accidents from each airline
-#### https://raw.githubusercontent.com/fivethirtyeight/data/master/airline-safety/airline-safety.csv
+##### https://raw.githubusercontent.com/fivethirtyeight/data/master/airline-safety/airline-safety.csv
 
 ### White House staff salaries for year 2010.
-#### https://raw.githubusercontent.com/mathcoder3141/blog-data-files/master/Congress_White_House.csv
+##### https://raw.githubusercontent.com/mathcoder3141/blog-data-files/master/Congress_White_House.csv
 
 
 
